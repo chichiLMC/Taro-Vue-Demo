@@ -1,0 +1,13 @@
+.logo{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .logo-image{
+        width: 300px;
+        height: auto;
+        margin-top: 200px;
+        margin-bottom: 20px;
+    }
+}
