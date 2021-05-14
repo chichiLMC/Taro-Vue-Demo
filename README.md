@@ -4,19 +4,26 @@
 
 ## setup
 ```
-npm install / yarn
+npm install 
+yarn
 ```
 
 ### development
 ```
-npm run dev:h5  / yarn dev:h5
-npm run dev:weapp  / yarn dev:weapp
+npm run dev:h5  
+yarn dev:h5
+
+npm run dev:weapp  
+yarn dev:weapp
 ```
 
 ### production
 ```
-npm run build:h5  / yarn build:h5
-npm run build:weapp  / yarn build:weapp
+npm run build:h5  
+yarn build:h5
+
+npm run build:weapp  
+yarn build:weapp
 ```
 
 ## Listening
